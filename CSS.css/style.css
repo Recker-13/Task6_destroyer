@@ -121,7 +121,7 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 2px;
     opacity: 1;
-    background-color: rgba(209, 199, 199, 0.17);
+    background-color: rgba(209, 199, 199, 0.082);
     width: 40%;
     
 }
@@ -636,12 +636,13 @@
     margin-left: 1820px;
 }
 
-.map{
+.map_location{
     position: absolute;
-    margin-top: 2400px;
-    width: 50%;
-    height: 800px;
+    margin-top: 2600px;
+    width: 300px;
     border-radius: 50px;
+    height: auto;
+    margin-left: 200px;
 }
 
 .info1{
